@@ -1,7 +1,9 @@
 # code-logo-aediroum
 repo pour mettre du code qui pourra apparaitre sur un logo de laediroum *si* mon logo gagne! .
 
-Exemple:
+Exemple de l'effet qui crée une image à partir de texte:
+
+
 <img src="https://www.mazaika.com/grafika/test_ttp_big.jpg" style="width: 300px; height: auto;">
 
 ## instructions: 
