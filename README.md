@@ -1,5 +1,8 @@
 # code-logo-aediroum
-repo pour mettre du code qui pourra apparaitre sur un logo de laediroum si mon logo gagne! 
+repo pour mettre du code qui pourra apparaitre sur un logo de laediroum *si* mon logo gagne! .
+
+Exemple:
+<img src="https://www.mazaika.com/grafika/test_ttp_big.jpg">
 
 ## instructions: 
 Envoyez-moi 1 fichier d'un code que vous voulez voir apparaître sur mon logo. 
