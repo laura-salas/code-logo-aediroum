@@ -6,6 +6,8 @@ Exemple de l'effet qui crée une image à partir de texte:
 
 <img src="https://www.mazaika.com/grafika/test_ttp_big.jpg" style="width: 300px; height: auto;">
 
+
+J'ai mis un exemple de fichier de code (mon `jeu.java` d'un de mes tps de Java)
 ## instructions: 
 Vous avez deux options pour soumettre du code: 
 
